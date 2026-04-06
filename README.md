@@ -3,7 +3,7 @@
 ```yarn
 skills: {
   frontend: ["SvelteKit", "JavaScript", "React", "HTML", "SCSS"]
-  backend: [PHP, SQL, WordPress (Headless CMS), REST API integrations]
+  backend: ["PHP", "SQL", "WordPress (Headless CMS)", "REST API integrations"]
   languages: ["English", "Russian", "Spanish"]
 }
 ```
