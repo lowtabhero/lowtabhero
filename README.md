@@ -1,5 +1,12 @@
 # Hi there 👋
 
+```yarn
+skills: {
+  frontend: ["SvelteKit", "JavaScript", "React", "HTML", "SCSS"]
+  backend: [PHP, SQL, WordPress (Headless CMS), REST API integrations]
+  languages: ["English", "Russian", "Spanish"]
+}
+```
 <!--
 **lowtabhero/lowtabhero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
