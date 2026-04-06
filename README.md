@@ -1,5 +1,7 @@
-# Hi there 👋
+# Hi, I'm Alex
 
+Full Stack Web Developer.
+I build websites and web tools using SvelteKit, JavaScript, React, PHP, SQL, and headless WordPress.
 
 ```yarn
 skills: {
