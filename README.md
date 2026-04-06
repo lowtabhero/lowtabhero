@@ -1,7 +1,7 @@
 # Hi, I'm Alex
 
 Full Stack Web Developer.
-I build websites and web tools using SvelteKit, JavaScript, React, PHP, SQL, and headless WordPress.
+I build websites and web tools with a focus on practical implementation, integrations, and production-ready delivery using SvelteKit, JavaScript, React, PHP, SQL, and headless WordPress.
 
 ```yarn
 skills: {
@@ -12,14 +12,14 @@ skills: {
 
 experience: {
   "Velmure Studio": {
-    period: "[start date] - [end date]",
+    period: "[Jan 2025] - [Apr 2026]",
     highlights: [
       "Built multiple websites from Figma designs to production-ready implementations",
       "Worked on public websites, MVPs, and internal web tools across different project stages",
       "Created custom UI solutions and interactive frontend elements for presentation-focused websites",
       "Implemented WordPress-based content integrations and menu/catalog functionality",
       "Maintained existing websites and handled project transfers, domain setup, and production fixes"
-    ]
+    ],
     links: [
       "tyrian.es",
       "exclusive.tyrian.es",
@@ -27,7 +27,7 @@ experience: {
     ]
   },
   "Prestige Expo": {
-    period: "[start date] - [end date]",
+    period: "[Nov 2024] - [Dec 2024]",
     highlights: [
       "Contributed to the early-stage frontend implementation of a website before the final design phase",
       "Experimented with animations, UI patterns, and frontend interaction approaches",
@@ -36,10 +36,10 @@ experience: {
     ]
   },
   "Belleside": {
-    period: "[start date] - [end date]",
+    period: "[Aug 2024] - [Oct 2024]",
     highlights: [
       "Maintained an existing website and supported ongoing updates",
-      "Developed custom WordPress plugins",
+      "Developed custom internal WordPress plugins",
       "Built a translation generation tool for blog-related workflows"
     ]
   },
