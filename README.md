@@ -35,7 +35,7 @@ experience: {
       "Explored libraries and technical solutions for animation and website implementation"
     ]
   },
-  "Belleside": {
+  "The Agency RE": {
     period: "[Aug 2024] - [Oct 2024]",
     highlights: [
       "Maintained an existing website and supported ongoing updates",
